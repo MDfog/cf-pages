@@ -2,3 +2,8 @@
   X-Custom-Ahchoi: test1
   Access-Control-Allow-Origin: *
   X-Robots-Tag: index
+
+/test/*
+  X-Custom-Ahchoi: test2
+  
+  
